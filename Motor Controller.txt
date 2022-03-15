@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : W:\Altium Projects 2022\100AHBridge\Motor Controller.PcbDoc
+Date         : 06/03/2022
+Time         : 18:41:35
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 150mmx105mm
+    Components on board, 86
+count : 2

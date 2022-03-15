@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Motor Driver.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Motor Driver.SchDoc|Designator=U_Control|SchDesignator=U_Control|FileName=Control.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Control.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Motor Driver.SchDoc|Designator=U_Gate Driver|SchDesignator=U_Gate Driver|FileName=Gate Driver.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Gate Driver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Motor Driver.SchDoc|Designator=U_H-Bridge|SchDesignator=U_H-Bridge|FileName=H-Bridge.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=H-Bridge.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
